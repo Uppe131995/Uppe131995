@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Uppe131995
-- 👀 I’m interested in Data Analytics, Visualizing, and Explore the data
+- 👀 I’m interested in Data Analytics, Visualizing, and Exploring the data
 - 🌱 I’m currently learning Python and R
 - 💞️ I’m looking to collaborate on Analytics and Certifications
 - 📫 How to reach me., Link: https://www.linkedin.com/in/uppe131995/
