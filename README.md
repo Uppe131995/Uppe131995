@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Uppe 👋</h1>
+<h1 align="center">Hi, I'm Suresh Uppe 👋</h1>
 <h3 align="center">Senior Information Security Analyst | Risk, Analytics & Automation</h3>
 
 <p align="center">
