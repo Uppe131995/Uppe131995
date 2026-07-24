@@ -37,7 +37,7 @@ I focus on execution: taking a business problem, building the dashboard/pipeline
 
 Open to opportunities in security analytics, GRC, and BI/data roles.
 
-📫 [LinkedIn](https://linkedin.com/uppe131995)) · [Email](mailto:uppe.suresh@outlook.in)
+📫 [LinkedIn](https://linkedin.com/uppe131995) · [Email](mailto:uppe.suresh@outlook.in)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Uppe131995&style=flat&color=orange" alt="profile views"/>
