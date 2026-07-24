@@ -32,8 +32,7 @@ I focus on execution: taking a business problem, building the dashboard/pipeline
 
 - 🌐 [Portfolio site](https://uppe131995.github.io)
 - 📈 [Power BI visualization showcase](https://github.com/Uppe131995/powerbi-visualization-showcase)
-- 🤖 [Direct marketing response prediction](https://github.com/Uppe131995/DirectMarketing) *(rename this link once you rename the repo)*
-
+- 🤖 [Direct marketing response prediction](https://github.com/Uppe131995/DirectMarketing)
 ### Currently
 
 Open to opportunities in security analytics, GRC, and BI/data roles.
